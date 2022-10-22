@@ -1,0 +1,37 @@
+/* Center align table */
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* JavaScript Calculator header */
+th {
+color: red;
+font-weight: normal;
+border: solid black 3px;
+
+}
+
+/* Button formatting */
+input[type=button] {
+background-color: blue;
+font-size: large;
+color: white;
+border: solid black 4px;
+width: 100%;
+height: 100%;
+}
+
+/* User input text formatting */
+input[type=text] {
+height: 85%;
+width: 95%;
+}
+
+/* Button Size */
+td {
+width: 80px;
+height: 60px;
+}
+
+
